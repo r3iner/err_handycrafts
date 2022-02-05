@@ -1,0 +1,67 @@
+.bookmark-col {
+    flex-basis: 48%;
+    padding: 30px 3px;
+}
+
+.bookmark-col img {
+    width: 100%;
+}
+.earings-col{
+    flex-basis: 48%;
+    padding: 30px 2px;
+}
+.earings-col img{
+    width: 100%;
+}
+.ear-row {
+    background: pink;
+    display: flex;
+    justify-content: space-between;
+}
+.book-row {
+    background: skyblue;
+    display: flex;
+    justify-content: space-between;
+}
+.clip-row{
+    background: rgb(224, 131, 224);
+    display: flex;
+    justify-content: space-between;
+}
+.key-row{
+    background:turquoise;
+    display: flex;
+    justify-content: space-between;  
+}
+.comb-row{
+    background:rosybrown;
+    display: flex;
+    justify-content: space-between;  
+}
+.neck-row{
+    background:rgb(243, 156, 43);
+    display: flex;
+    justify-content: space-between;  
+}
+.dog-row{
+    background:rgb(119, 209, 96);
+    display: flex;
+    justify-content: space-between;  
+}
+.dog-row img{
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50%;
+    height: 50%; 
+}
+.cp-row{
+    background:rgb(45, 225, 231);
+    display: flex;
+    justify-content: space-between;  
+}
+.cp-row img{
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 70%;
+    height: 70%; 
+}
